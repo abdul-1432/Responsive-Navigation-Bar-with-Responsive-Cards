@@ -17,7 +17,7 @@ To use this project, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/responsive-navigation.git
+   git clone https://github.com/abdul-1432/Responsive-Navigation-Bar-with-Responsive-Cards/tree/main
    ```
 
 2. Open the project in your preferred code editor.
@@ -61,6 +61,6 @@ This project is licensed under the [MIT License](LICENSE.md).
 
 ## Acknowledgments
 
-- Thank you to [Name] for inspiration or contributions.
+- Thank you to [Codepen] for inspiration or contributions.
 
 Feel free to reach out if you have any questions or need assistance with the project. Happy coding!
