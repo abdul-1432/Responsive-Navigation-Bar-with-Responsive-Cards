@@ -66,4 +66,4 @@ This project is licensed under the [MIT License](LICENSE.md).
 Feel free to reach out if you have any questions or need assistance with the project. Happy coding!
 
 # Contact
-[gafoor.mngr@gmail.com}
+Gmail : [gafoor.mngr@gmail.com](mailto:gafoor.mngr@hmail.com)
