@@ -64,3 +64,6 @@ This project is licensed under the [MIT License](LICENSE.md).
 - Thank you to [Codepen](https://codepen.io/)(Website For Developers) for inspiration or contributions.
 
 Feel free to reach out if you have any questions or need assistance with the project. Happy coding!
+
+# Contact
+[gafoor.mngr@gmail.com}
