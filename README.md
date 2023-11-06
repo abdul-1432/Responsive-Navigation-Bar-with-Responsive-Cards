@@ -43,7 +43,7 @@ To use this project, follow these steps:
 
 - HTML5
 - CSS3
-- JavaScript (optional, if any interactivity is required)
+- JavaScript 
 
 ## Contributing
 
